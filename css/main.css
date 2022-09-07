@@ -197,9 +197,9 @@ iframe {
 [ Contact ]*/
 
 .info_pregrado{
-    background-image: url(https://www.unac.edu.co/administracion-empresas/images/admin.jpg);
+    background-image: url(https://www.unac.edu.co/aph-bucaramanga/images/aph-min.jpg);
     background-size: cover;
-    padding: 42px 55px 45px 55px;
+    padding: 75px 10px 75px 10px;
     border-radius: 10px;
     color: white;
     justify-content: center;
@@ -698,7 +698,7 @@ textarea.input100 {
     padding-bottom: 2vw;
 }
 #descripcion {
-    background-image: url(https://www.unac.edu.co/administracion-empresas/images/medios_contacto.jpg);
+    background-image: url(https://www.unac.edu.co/aph-bucaramanga/images/medios_contacto.jpg);
     background-position: 10% 35%;
 }
 #descripcion a{
